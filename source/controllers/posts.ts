@@ -90,3 +90,5 @@ const addPost = async (req: Request, res: Response, next: NextFunction) => {
 };
 
 export default { getPosts, getPost, updatePost, deletePost, addPost };
+
+// test
